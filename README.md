@@ -1,4 +1,4 @@
-# 🏦 Mutuelle BH Bank - Système de Gestion
+# 🏦 Système de Gestion - Mutuelle BH Bank
 
 Application web complète de gestion des demandes d'aide pour la mutuelle.
 
